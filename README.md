@@ -18,7 +18,7 @@ This project aims to bridge that gap by building an AI-powered assistant capable
 - Generating personalized recommendations with the Sarvam AI language model.
 
 Instead of providing generic advice, the assistant uses relevant contextual information retrieved from PDF documents to produce more meaningful and personalized responses.
-
+"The current model is a prototype trained on a limited dataset. My focus in this project was integrating computer vision with RAG and an LLM to build an end-to-end AI wellness assistant. I'm continuing to improve the emotion classifier through additional training and dataset refinement."
 ---
 
 # ✨ Features
