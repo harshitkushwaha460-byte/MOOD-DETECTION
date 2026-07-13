@@ -3,7 +3,7 @@ tensorflow==2.19.0
 numpy
 opencv-python-headless
 Pillow
-
+sarvamai
 langchain
 langchain-community
 langchain-huggingface
