@@ -1,0 +1,15 @@
+streamlit
+tensorflow
+numpy
+opencv-python-headless
+Pillow
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+transformers
+huggingface-hub
+python-dotenv
+pypdf
+sarvamai
