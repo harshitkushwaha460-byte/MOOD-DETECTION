@@ -7,11 +7,11 @@ sarvamai
 langchain
 langchain-community
 langchain-huggingface
-
 faiss-cpu
 sentence-transformers
 transformers
-
+torch
+torchvision
 python-dotenv
 pypdf
 
