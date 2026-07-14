@@ -1,3 +1,11 @@
+import cv2
+import streamlit as st
+
+st.write(cv2.__file__)
+st.write(cv2.__version__)
+st.write(hasattr(cv2, "CascadeClassifier"))
+
+
 import streamlit as st
 import cv2
 import numpy as np
