@@ -184,7 +184,12 @@ The RAG pipeline retrieves information from curated PDF documents on topics such
 - Modular and extensible architecture
 
 ---
+# 📽️ Demo & Deliverables
+## 🌐 Deployment
+https://mood-detectionapp.streamlit.app/<br>
+(Note: If You Find this app in sleeping mode,Please click on the "get this app back up" And wait some second while app is being ready)
 
+---
 # 🔮 Future Improvements
 
 
